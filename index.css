@@ -1,0 +1,36 @@
+body{
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+</style>
+    background: #f1f1f1;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: normal;
+}
+a:hover{
+    text-decoration:grey;
+}
+a:active{
+    color: green;
+}
+a:visited{
+    color: blue;
+}
+.avatar{
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+.container{
+    max-width: 750px;
+    margin:auto;
+}
+.cocial{
+   background: white;
+}
+.card{
+    padding: 15px 20px;
+    background: lightgray;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
